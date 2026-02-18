@@ -47,6 +47,7 @@ Users can securely log in with Google, add/delete bookmarks, and see updates ins
 ## Live Demo
 
  **Vercel URL:** smartbookmarkapp-five.vercel.app
+
  **GitHub Repo:** https://github.com/Itssunil01/smart-bookmark-app
 
 ---
